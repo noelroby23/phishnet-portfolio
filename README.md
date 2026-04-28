@@ -6,6 +6,15 @@ PhishNet is a multi-engine AI platform that detects phishing threats across emai
 
 ---
 
+## Demo & Project Site
+
+[![Watch the demo](https://img.youtube.com/vi/YQt3aZkwShM/maxresdefault.jpg)](https://www.youtube.com/watch?v=YQt3aZkwShM)
+
+- **Demo video:** [youtube.com/watch?v=YQt3aZkwShM](https://www.youtube.com/watch?v=YQt3aZkwShM)
+- **Project site:** [ahmeddth.github.io/phishnet-info](https://ahmeddth.github.io/phishnet-info/)
+
+---
+
 ## My Contribution — ML Inference Orchestration & Integration Layer
 
 I designed and built the production **ML serving infrastructure** that connects the Flask API gateway to five independently developed AI/ML detection engines — spanning NLP (TF-IDF + ensemble classifiers), classical ML (RandomForest on URLs and files), deep learning (HuggingFace deepfake CNN + BERT intent), and OCR-driven inference pipelines.
@@ -105,9 +114,3 @@ Each adapter wraps a teammate's trained model behind the shared inference contra
 ## Source Code
 
 Source is maintained in a private collaborative repository. Available on request — contact me at **noel.roby23@gmail.com**.
-
----
-
-## Screenshots / Demo
-
-*Coming soon — dashboard screenshots and a scan walkthrough GIF will be added.*
